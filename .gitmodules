@@ -1,0 +1,3 @@
+[submodule "lutris-wine"]
+	path = lutris-wine
+	url = https://github.com/VHSgunzo/lutris-wine.git
